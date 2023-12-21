@@ -12,6 +12,9 @@ This is a simple React web application that serves as a currency converter. It u
 
 You can see a live demo of the app [here](https://ankurnayak.github.io/currency-converter/).
 
+![Untitled](https://github.com/AnkurNayak/currency-converter/assets/39209074/21b0b396-777f-4dba-9ed0-ce64f2dd7558)
+
+
 
 ## Getting Started
 
